@@ -5,4 +5,6 @@
 #### It was designed to organise their important repositories and projects whether they are in-progress or complete.
 
 ## 🗃️ Contacts
-#### The organisation owner's ([![@fwuffyboi](https://github.com/fwuffyboi)](https://github.com/fwuffyboi)'s) email: [![biscuitisnotacookie@protonmail.com](mailto:biscuitisnotacookie@protonmail.com)](mailto:biscuitisnotacookie@protonmail.com)
+#### One may contact the organisation owner by any of the links/methods provided below:
+ - Linktr.ee: [![linktr.ee/fwuffyboi](https://linktr.ee/fwuffyboi)](https://linktr.ee/fwuffyboi)
+ - Email: [![biscuitisnotacookie@protonmail.com](mailto:biscuitisnotacookie@protonmail.com)](mailto:biscuitisnotacookie@protonmail.com)
