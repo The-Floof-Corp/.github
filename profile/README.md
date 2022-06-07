@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 ## 📝 About Us
-#### The Floof Corp. is a GitHub organisation managed by [![@fwuffyboi](https://github.com/fwuffyboi)](https://github.com/fwuffyboi).
+#### The Floof Corp. is a GitHub organisation managed by [![@fwuffyboi](https://github.com/fwuffyboi)](https://github.com/fwuffyboi). Here's our website! [![floof.ml](https://floof.ml)](https://floof.ml)
 #### We create high-quality, open-source projects and code for all to use!
 
 ## 🗃️ Contacts
